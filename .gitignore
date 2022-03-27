@@ -1,2 +1,8 @@
 logs.txt
 /test
+git commit -m 'Add header'
+git commit -m 'Add auth module: interface,add plugins,...'
+git commit -m 'test: module A, module B'
+git commit -m 'test: module A, module B'
+git commit -m 'refactoring: module A, module B'
+git commit -m 'add: module A, module B'
